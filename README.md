@@ -217,4 +217,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-**Built with ❤️ for better AI discoverability**
